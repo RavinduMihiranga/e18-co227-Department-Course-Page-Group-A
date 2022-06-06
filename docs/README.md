@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
+repository-name: e18-co227-Department-Course-Page-Group-A
 title:
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Department Course Page Group A
 
 ---
 
@@ -19,9 +19,10 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/077, Dharmarathna N.S., [email](mailto:e18077@eng.pdn.ac.lk)
+-  E/18/224, Mihiranga G.D.R., [email](mailto:e18224@eng.pdn.ac.lk)
+-  E/18/227, Mudalige D.H., [email](mailto:e18227@eng.pdn.ac.lk)
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
