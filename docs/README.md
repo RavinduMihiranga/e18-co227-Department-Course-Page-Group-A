@@ -24,37 +24,45 @@ title: Department Course Page for Undergraduate Students
  
 #### Scrum Master
  Mr. Imesh Ekanayake, [imeshuk@eng.pdn.ac.lk](mailto:imeshuk@eng.pdn.ac.lk)
- 
+
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Our Approach](#our-approach)
+3. [Sub Topics 1](#sub-topics-1)
+4. [Sub Topics 2](#sub-topics-2)
+5. [Links](#links)
+
+
 ---
+
+### Introduction
+
+TODO
+
+---
+
+### Our Approach
 
 ![First Page](./images/first_page.jpeg)
 
 ![Second Page](./images/second_page.jpeg)
 
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Sub Topics 1](#sub-topics-1)
-3. [Sub Topics 2](#sub-topics-2)
-4. [Links](#links)
-
 ---
 
-## Introduction
-
- description of the real world problem and solution, impact
-
-## Sub Topics 1
-
-TODO
-
-## Sub Topics 2
+### Sub Topics 1
 
 TODO
 
 ---
 
-## Links
+### Sub Topics 2
+
+TODO
+
+---
+
+### Links
 
 - [Project Repository](https://github.com/cepdnaclk/{{page.repository-name}}){:target="_blank"}
 - [Project Page](https://cepdnaclk.github.io/{{page.repository-name}}){:target="_blank"}
