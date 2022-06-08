@@ -14,16 +14,14 @@ title: Department Course Page for Undergraduate Courses
 ---
 
 ## Group 16 
-### Team Members
+#### Team Members
 -  E/18/077, Dharmarathna N.S., [e18077@eng.pdn.ac.lk](mailto:e18077@eng.pdn.ac.lk)
 -  E/18/224, Mihiranga G.D.R., [e18224@eng.pdn.ac.lk](mailto:e18224@eng.pdn.ac.lk)
 -  E/18/227, Mudalige D.H., [e18227@eng.pdn.ac.lk](mailto:e18227@eng.pdn.ac.lk)
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
+![First Page](./images/first_page.jpeg)
 
 
 ## Table of Contents
