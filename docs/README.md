@@ -19,6 +19,12 @@ title: Department Course Page for Undergraduate Students
 -  E/18/224, Mihiranga G.D.R., [e18224@eng.pdn.ac.lk](mailto:e18224@eng.pdn.ac.lk)
 -  E/18/227, Mudalige D.H., [e18227@eng.pdn.ac.lk](mailto:e18227@eng.pdn.ac.lk)
 
+#### Project Owner
+ Mr. Nuwan Jaliyagoda, [nuwanjaliyagoda@eng.pdn.ac.lk](mailto:nuwanjaliyagoda@eng.pdn.ac.lk)
+ 
+#### Scrum Master
+ Mr. Imesh Ekanayake, [imeshuk@eng.pdn.ac.lk](mailto:imeshuk@eng.pdn.ac.lk)
+ 
 ---
 
 ![First Page](./images/first_page.jpeg)
