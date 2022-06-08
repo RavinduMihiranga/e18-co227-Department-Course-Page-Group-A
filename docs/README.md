@@ -38,7 +38,7 @@ title: Department Course Page for Undergraduate Students
 
 ### Introduction
 
-TODO
+Course page of a department directly affect the first impression of an outsider. So making it more simple, interactive are some key features that many departments in various universities around the world trying to address. The aim of this project is to improve our undergraduate course page on the department website with more details, teacher-student interactions, and statistics of the previous years. 
 
 ---
 
