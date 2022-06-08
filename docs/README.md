@@ -4,12 +4,12 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: e18-co227-Department-Course-Page-Group-A
-title:
+title: Department Course Page for Undergraduate Courses
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Department Course Page Group A
+# Department Course Page for Undergraduate Courses
 
 ---
 
