@@ -29,6 +29,8 @@ title: Department Course Page for Undergraduate Students
 
 ![First Page](./images/first_page.jpeg)
 
+![Second Page](./images/second_page.jpeg)
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
