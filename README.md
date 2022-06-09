@@ -13,6 +13,12 @@ Some similar works:
 2. E/18/224 Mihiranga G.D.R. [e18224@eng.pdn.ac.lk]
 3. E/18/227 Mudalige D.H. [e18227@eng.pdn.ac.lk]
 
+### Project Owner: 
+Mr. Nuwan Jaliyagoda [nuwanjaliyagoda@eng.pdn.ac.lk]
+
+### Scrum Master: 
+Mr. Imesh Ekanayake [imeshuk@eng.pdn.ac.lk]
+
 ### Links:
 1. [Github repository](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A)
 2. [Github wiki](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A/wiki)
