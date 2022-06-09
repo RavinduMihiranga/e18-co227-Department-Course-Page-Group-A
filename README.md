@@ -1,5 +1,6 @@
 ## Department Course Page
 
+### Introduction:
 The aim of this project is to improve the undergraduate course page on the department website with more details, teacher-student interactions, and statistics of the previous years. 
 
 Some similar works:
