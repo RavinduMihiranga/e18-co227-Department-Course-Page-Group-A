@@ -4,8 +4,8 @@ The aim of this project is to improve the undergraduate course page on the depar
 
 Some similar works:
 
-https://www.cs.umd.edu/class/
-https://continuingstudies.stanford.edu/courses/courses-by-department
+1. https://www.cs.umd.edu/class/
+2. https://continuingstudies.stanford.edu/courses/courses-by-department
 
 ### Team members:
 1. E/18/077 Dharmarathna N.S. [e18077@eng.pdn.ac.lk]
