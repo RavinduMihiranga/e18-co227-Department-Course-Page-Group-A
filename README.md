@@ -20,8 +20,8 @@ Mr. Nuwan Jaliyagoda [nuwanjaliyagoda@eng.pdn.ac.lk]
 Mr. Imesh Ekanayake [imeshuk@eng.pdn.ac.lk]
 
 ### Links:
-1. [Github repository](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A)
+1. [Github Repository](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A)
 2. [Github Pages](https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A/)
-3. [Github wiki](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A/wiki)
+3. [Github Wiki](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A/wiki)
 4. [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 5. [Department of Computer Engineering Github Pages](https://github.com/cepdnaclk)
