@@ -1,4 +1,9 @@
 ## Department Course Page
+This repository is used for the documentation purpose.
+We have used a seperate repository for implementation of our project.<br>
+Github Repository for implementation: https://github.com/cepdnaclk/Undergraduate-Courses
+
+
 
 ### Introduction:
 The aim of this project is to improve the undergraduate course page on the department website with more details, teacher-student interactions, and statistics of the previous years. 
