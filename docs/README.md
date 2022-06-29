@@ -44,9 +44,9 @@ Course page of a department directly affect the first impression of an outsider.
 
 ### Our Approach
 
-![First Page](./images/first_page.jpeg)
+![Home Page](./images/home_page.png)
 
-![Second Page](./images/second_page.jpeg)
+![Documentation Page](./images/documentation_page.png)
 
 ---
 
