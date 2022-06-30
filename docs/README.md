@@ -27,15 +27,15 @@ title: Department Course Page for Undergraduate Students
 
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Our Approach](#our-approach)
-3. [Sub Topics 1](#sub-topics-1)
-4. [Sub Topics 2](#sub-topics-2)
-5. [Sub Topics 3](#sub-topics-3)
-6. [Sub Topics 4](#sub-topics-4)
-7. [Sub Topics 5](#sub-topics-5)
-8. [Sub Topics 6](#sub-topics-6)
-9. [Links](#links)
+[Introduction](#introduction)
+[Our Approach](#our-approach)
+[Sub Topics 1](#sub-topics-1)
+[Sub Topics 2](#sub-topics-2)
+[Sub Topics 3](#sub-topics-3)
+[Sub Topics 4](#sub-topics-4)
+[Sub Topics 5](#sub-topics-5)
+[Sub Topics 6](#sub-topics-6)
+[Links](#links)
 
 
 ---
