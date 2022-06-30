@@ -94,13 +94,13 @@ We have considered to extend our course page with some additional features such 
 ### Documentation
 
 • Github Repository:<br>
-https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A<br>
+[https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A)<br>
 
 • Github Pages:<br>
-https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A/<br>
+[https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A](https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A)<br>
 
 • Github Wiki:<br>
-https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A/wiki<br>
+[https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A/wiki](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A/wiki)<br>
 
 ---
 ### Other Links
