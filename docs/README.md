@@ -27,16 +27,15 @@ title: Department Course Page for Undergraduate Students
 
 
 ## Table of Contents
-[Introduction](#introduction)
-[Our Approach](#our-approach)
-[Sub Topics 1](#sub-topics-1)
-[Sub Topics 2](#sub-topics-2)
-[Sub Topics 3](#sub-topics-3)
-[Sub Topics 4](#sub-topics-4)
-[Sub Topics 5](#sub-topics-5)
-[Sub Topics 6](#sub-topics-6)
-[Links](#links)
-
+- [Introduction](#introduction)
+- [Problems with the Existing System](#problems-with-the-existing-system)
+- [Objectives](#objectives)
+- [Our Approach](#our-approach)
+- [Background and Motivation](#background-and-motivation)
+- [Considerations for extendability](#considerations-for-extendability)
+- [Technology Stack](#technology-stack)
+- [Documentation](#documentation)
+- [Other Links](#other-links)
 
 ---
 
@@ -45,57 +44,69 @@ title: Department Course Page for Undergraduate Students
 Course page of a department directly affect the first impression of an outsider. So making it more simple, interactive are some key features that many departments in various universities around the world trying to address. The aim of this project is to improve our undergraduate course page on the department website with more details, teacher-student interactions, and statistics of the previous years. 
 
 ---
+### Problems with the Existing System
+- Lesser details<br>
+ (No ILOs<br>
+ No lecturers details<br>
+ No reference books<br>
+ No grade distribution)
+- Difficult to update
+- Not much flexible
+- Time consuming
 
+---
+### Objectives
+- To display courses publicly in a more detailed view to get a better idea about them<br>
+- Provide statistics of the previous years<br>
+- Teacher-student interactions
+
+---
 ### Our Approach
+Is an interactive course page where course coordinators can integrate their 
+course contents to it.
 
 ![Home Page](./images/home_page.png)
 
 ![Documentation Page](./images/documentation_page.png)
 
 ---
-
-### Sub Topics 1
-
-TODO
-
----
-
-### Sub Topics 2
-
-TODO
+### Background and Motivation
+- [cs.umd.edu](https://www.cs.umd.edu/class/)
+- [continuingstudies.stanford.edu](https://continuingstudies.stanford.edu/courses/courses-by-department)
 
 ---
-
-### Sub Topics 3
-
-TODO
-
----
-
-### Sub Topics 4
-
-TODO
+### Considerations for extendability
+We have considered to extend our course page with some additional features such as,<br>
+- Displaying marks distribution for grades over course contents
+- Detailed graphical representation of grade distribution for past years 
+- Sorting and filtering courses
 
 ---
-
-### Sub Topics 5
-
-TODO
-
----
-
-### Sub Topics 6
-
-TODO
+### Technology Stack
+- HTML and CSS
+- Jekyll
+- JavaScript
+- Python
+- GitHub
+- Figma
 
 ---
+### Documentation
 
-### Links
+• Github Repository:<br>
+https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A<br>
 
-- [Project Repository](https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A)
-- [Project Page](https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A/)
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+• Github Pages:<br>
+https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A/<br>
+
+• Github Wiki:<br>
+https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A/wiki<br>
+
+---
+### Other Links
+- [Department of Computer Engineering GitHub Organization](https://github.com/cepdnaclk)
+- [Department of Computer Engineering Website](http://www.ce.pdn.ac.lk/)
+- [University of Peradeniya Website](https://eng.pdn.ac.lk/)
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
