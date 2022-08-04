@@ -65,9 +65,28 @@ Course page of a department directly affect the first impression of an outsider.
 Is an interactive course page where course coordinators can integrate their 
 course contents to it.
 
-![Home Page](./images/home_page.png)
+![Home Page 1](./images/home_page_1.png)
 
-![Documentation Page](./images/documentation_page.png)
+![Home Page 2](./images/home_page_2.png)
+
+![Home Page 3](./images/home_page_3.png)
+
+![CO222 Description](./images/co222_description.png)
+
+![CO222 Time Allocations](./images/co222_time_allocation.png)
+
+![CO222 Marks Allocation](./images/co222_marks_allocation.png)
+
+![CO222 Statistics](./images/co222_statistics.png)
+
+![Documentation Page](./images/documentation.png)
+
+![Local Website Deployment DOcumentation Page](./images/local_website_doc.png)
+
+![Courses Json](./images/courses_api.png)
+
+![Courses API Documentaion](./images/courses_api_documentation.png)
+
 
 ---
 ### Background and Motivation
