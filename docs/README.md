@@ -103,11 +103,14 @@ We have considered to extend our course page with some additional features such 
 ---
 ### Technology Stack
 - HTML and CSS
+- JavaScript (Chart.js)
+- JSON
 - Jekyll
-- JavaScript
+- Boostrap
 - Python
 - GitHub
 - Figma
+- Swagger
 
 ---
 ### Documentation
